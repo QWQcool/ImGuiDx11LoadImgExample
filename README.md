@@ -4,3 +4,5 @@
 This a simple example to show Image Toggle
 
 ![ImageLoadShow](.\ImageLoadShow.gif)
+
+1
