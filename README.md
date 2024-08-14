@@ -5,4 +5,5 @@ This a simple example to show Image Toggle
 
 ![ImageLoadShow](.\ImageLoadShow.gif)
 
-1
+I dont know why github dont show the gif
+if you want to view the show,open the [ImageLoadShow.gif]
