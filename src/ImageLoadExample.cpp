@@ -1,7 +1,7 @@
 #include "ImguiAll.h" // 引入imgui的所有头文件
 #include <iostream>   // 引入标准输入输出流库
 #include <string>     // 引入字符串库
-#define ImageIndex 3 // 定义图片索引常量，表示要加载的图片数量
+#define ImageIndex 9 // 定义图片索引常量，表示要加载的图片数量
 
 static int sg_imageIndex = 0; // 定义全局变量，用于存储当前显示的图片索引
 

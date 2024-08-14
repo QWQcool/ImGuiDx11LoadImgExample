@@ -3,4 +3,4 @@
 
 This a simple example to show Image Toggle
 
-![ImageLoadShow](C:\Users\licuocuo\Desktop\ImageLoadShow.gif)
+![ImageLoadShow](.\ImageLoadShow.gif)
